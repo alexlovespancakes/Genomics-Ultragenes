@@ -1,2 +1,2 @@
-Genomics-Ultragenes
+Genomics-Ultragenes by Alex Otter
 ===================
