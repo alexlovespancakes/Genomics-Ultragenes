@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Genomics - Ultragenes</title>
+
+    <!-- Bootstrap -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+
+      <div class="jumbotron">
+        <h1>Ultragenes</h1>
+        <p class="lead">
+
+        Genetic variation between sprint, endurance, and ultrarunners
+
+        </p>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-4">
+
+         <img src="./img/cardiovascular_pulmonary_system.jpg" class="img-thumbnail" alt="Cardiovascular & Pulmonary Systems" />
+
+        </div>
+
+        <div class="col-lg-8">
+
+         
+	        <h1>Cardiovascular & Pulmonary Systems</h1>
+<h2>References </h2>
+<p><ol>
+<li>Alvarez R, Terrados N, et al. 2000. Genetic variation in the renin-angiotensin system and athletic performance. European Journal of Applied Physiology. 82:117-120 </li>
+<li>Gayagay G, Yu B, et al. 1998. Elite endurance athletes and the ACE I allele-the role of genes in athletic performance. Human Genetics. 103:48-50 </li>
+<li>Montgomery HE, Marshall R, et al. 1998. Human Gene for physical performance. Nature. 393: 221-222 </li>
+<li>Montgomery H, Clarkson P, et al. 1999. Angiotensin-converting-enzyme gene insertion/deletion polymorphism andr esponse to physical training. The Lancet. 353:541-545 </li>
+<li>Ostrander EA, Huson HJ, and Ostrander GK. 2009. Genetics of Athletic Performance. Human Genetics. </li>
+<li>Rigat B, Hubert C, et al. 1990. An insertion/deletion polymorphism in the angiotensin I-converting enzyme gene accounting for half the variance of serum enzyme levels. The American Society for Clinical Investigation, INC. 86:1343-1346 </li>
+<li>Saunders CJ, Xenophontos SL, et al. 2005. The bradykinin B2 receptor (BDKRB2) and endothelial nitric oxide synthase 3 (NOS3) genes and endurance performance during Ironman Triathalons. Human Molecular Genetics. 15:979-987 </li>
+<li>Tsianos G, Sanders J, et al. 2004. The ACE gene insertion/deletion polymorphism and elite endurance swimming. European Journal of Applied Physiology. </li>
+<li>Wolfarth B, Rankinen T, et al. 2007. Association between a B2-adrenergic receptor polymorphism and elite endurance performance. Metabolism Clinical and Experimental. 56:1649-1651. </li>
+<li>Wolfarth B, Rankinen T, et al. 2008. Endothelial nitric oxide synthase gene polymorphism and elite endurance athlete status: the Genathlete study. Scandinavian Journal of Medicine & Science in Sports.18:485-490 </li>
+<li>Woods D, Hickman M, et al. 2001. Elite swimmers and the D allele of the ACE I/D polymorphism. Human Genetics. 108:230-232 </li></ol></p>
+<h1>Muscular system</h1>
+<h2>References</h2><p><ol>
+<li>He Z, Hu Y, et al. 2008. Is there an association between PPARGC1A genotypes and endurance capacity in Chinese men? Scandinavian Journal of Medicine & Science in Sports. 18:195-204</li>
+<li>Lin J, Handschin C, and Spiegelman BM. 2005. Metabolic control through the PGC-1 family of transcription coactivators. Cell Metabolism. 1:361-370</li>
+<li>MacArthur DG, and North KN. 2004. A gene for speed? The evolution and function of a-actin-3. BioEssays. 26:786-795</li>
+<li>MacArthur DG, Seto JT, et al. 2008. An Actn3 knockout mouse provides mechanistic insights into the association between a-actin-3 deficiency and human athletic performance. Human Molecular Genetics. 17:1076-1086</li>
+<li>Marchitelli C, Savarese MC, et al. 2003. Double muscling in Marchigiana beef breed is caused by a stop codon in the third exon of myostatin gene. Mammalian Genome. 14:392-395</li>
+<li>Mosher DS, Wuignon P, et al. 2007. A mutation in the myostatin gene increases muscle mass and enhances racing performance in heterozygote dogs. PLOS Genetics. </li>
+<li>Ostrander EA, Huson HJ, and Ostrander GK. 2009. Genetics of Athletic Performance. Human Genetics.</li>
+<li>Schuelke M, Wagner K, et al. 2004. Myostatin Mutation Associated with Gross Muscle Hypertrophy in a Child. The New England Journal of Medicine. 350:2682-2688</li>
+<h1>Nervous System</h1>
+<h2>References</h2><p><ol>
+<li>Kim H, Neubert JK, et al. 2003. Genetic influence on variability in human acute experimental pain sensitivity associated with gender, ethnicity and  psychological temperament. Pain. 109:488-496</li>
+<li>Freund W, Weber F, et al. 2012. Ultra-marathon runners are different: investigations into <li>pain tolerance and personality traits of participants of the TransEurope FootRace 2009. Pain Practice. 13:524-532</li>
+<li>Mogil JS. 1999. The genetic mediation of individual differences in sensitivity to pain and its inhibition. Proc. Natl. Acad. Sci. 96:7744-7751</li></ol</p>
+        </div>
+      </div>
+
+      <div class="footer">
+        <p>&copy; Company 2014</p>
+      </div>
+
+    </div> <!-- /container -->
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  </body>
+</html>
