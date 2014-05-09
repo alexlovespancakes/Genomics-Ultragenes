@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Genomics - Ultragenes</title>
+
+    <!-- Bootstrap -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+
+      <div class="jumbotron">
+        <h1>Ultragenes</h1>
+        <p class="lead">
+
+        Genetic variation between sprint, endurance, and ultrarunners
+
+        </p><p><a class="btn btn-primary btn-lg" role="button" href="/index.html">Home</a><a class="btn btn-primary btn-lg" role="button" href="/references.html">References</a></a></p>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-4">
+
+         <img src="./img/muscular_system.jpg" class="img-thumbnail" alt="Muscular System" />
+        </div>
+
+        <div class="col-lg-8">
+
+          <h1><a href="/muscular.html">Muscular System</a></h1>
+
+          <h2>a-Actinin-3 (ACTN3)</h2>
+
+<p>A gene for the actin-binding family of proteins a-Actinin-3 (ACTN3) plays an important role in regulating skeleto-muscle formation and function (4,5,9). The R577X(577XX) polymorphism in the a-Actinin-3 gene results in a premature stop codon, while a 577RR polymorphism results in an arginine instead of a stop codon (4,5,8,9). The 577RR allele of the a-Actin-3 gene has been shown to be prevalent in sprint athletes while 577XX is common in endurance athletes (4,5,9). </p>
+	<p>The presence of ACTN3 in muscle fiber is beneficial to the fast twitch muscle fibers associated in power/sprint athletes while it’s absence, due to the premature stop codon, has shown benefit in endurance athletes (4). a-Actin-3 assists muscle fibers in contracting by connecting fibers (4). An association has been made between ACTN-3 and a mitochondrial DNA element MTATP6, which is associated with heightened exercise efficiency. This C>T transition at the 8794 position is responsible for this efficiency in energy (8).<p>
+	<p> With the association between 577XX in endurance athletes and 577RR in sprint athletes it ACTN3 is an important player in the the genetics of athletes, especially because of the association made between ACTN3 and MTATP6.</p>
+
+
+<p> <a href="/muscular.html"> Back </a> Genes: <a href="/ppargcia.html">PPARGCIA</a>, <a href="/transcriptionalcoactivator.html">Transcriptional co-activator</a>, & <a href="/nuclearrespiratoryfactors.html">Nuclear respiratory factors & TFAM</a></p>
+
+        </div>
+      </div>
+
+      <div class="footer">
+        <p>&copy; Company 2014</p>
+      </div>
+
+    </div> <!-- /container -->
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  </body>
+</html>
