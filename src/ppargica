@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Genomics - Ultragenes</title>
+
+    <!-- Bootstrap -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+
+      <div class="jumbotron">
+        <h1>Ultragenes</h1>
+        <p class="lead">
+
+        Genetic variation between sprint, endurance, and ultrarunners
+
+        </p><p><a class="btn btn-primary btn-lg" role="button" href="/index.html">Home</a><a class="btn btn-primary btn-lg" role="button" href="/references.html">References</a></a></p>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-4">
+
+         <img src="./img/muscular_system.jpg" class="img-thumbnail" alt="Muscular System" />
+        </div>
+
+        <div class="col-lg-8">
+
+          <h1><a href="/muscular.html">Muscular System</a></h1>
+
+          <h2>PPARGC1A</h2>
+	<p>Variations in the peroxysome proliferator activated receptor y coactivator 1a gene (PPARGC1A) including the Gly482Ser, Thr394Thr, and A2962G polymorphisms were tested and it was found that while the Gly482Ser and Thr394Thr polymorphisms do not improve VO2max or running efficiency, A2962G increases VO2max (2). A GG or AG genotype on the  PPARGC1A gene rather than an AA genotype accounted for this VO2max change (2). This particular gene is responsible for coactivating genes that control fuel transport/oxidation along with with muscle formation (2). Located on the 3’ untranslated region of the gene this single nucleotide polymorphism’s (SNP) exact affect on the body’s endurance is unknown, but it is thought that this trait stabilizes mRNA (2). These genes have also been shown to influence the composition of skeletal and myocardial muscle tissue (1). Slow twitch muscles have a heightened mitochondrial volume, with the promotion of slow twitch and myocardium muscles from PPARGC1A endurance runners would be at an advantage in recovery and in managing fatigue (1,2).</p>
+
+<p> <a href="/muscular.html"> Back </a> Genes: <a href="/actn">ACTN3</a>, <a href="/transcriptionalcoactivator.html">Transcriptional co-activator</a>, & <a href="/nuclearrespiratoryfactors.html">Nuclear respiratory factors & TFAM</a></p>
+
+        </div>
+      </div>
+
+      <div class="footer">
+        <p>&copy; Company 2014</p>
+      </div>
+
+    </div> <!-- /container -->
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  </body>
+</html>
